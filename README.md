@@ -107,6 +107,6 @@ Contributing to all HastiJS projects will start by opening a pull request. No pu
 
 * New features have to have tests and documentation.
 
-* Make the pull request from a [topic branch](https://github.com/dchelimsky/rspec/wiki/Topic-Branches), not master/develop branch.
+* Make the pull request from a [topic branch](https://github.com/dchelimsky/rspec/wiki/Topic-Branches), not master branch.
 
-* All pull request target branch must be develop. If no develop branch exists, master is target branch for your pull request.
+* All pull request target branch must be master.
